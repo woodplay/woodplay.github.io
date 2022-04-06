@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SketchLogs';
+    src: url('SketchLogs.woff2') format('woff2'),
+        url('SketchLogs.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
